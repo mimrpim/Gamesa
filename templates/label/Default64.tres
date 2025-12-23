@@ -1,0 +1,7 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://bl4ox5nlc86yk"]
+
+[ext_resource type="FontFile" uid="uid://bsfa8tx5aqdke" path="res://assets/GamesaTestFont.ttf" id="1_fog4l"]
+
+[resource]
+font = ExtResource("1_fog4l")
+font_size = 64
