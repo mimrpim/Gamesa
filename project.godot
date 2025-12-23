@@ -21,6 +21,10 @@ boot_splash/fullsize=false
 boot_splash/use_filter=false
 config/icon="res://icon.svg"
 
+[autoload]
+
+gv="*res://scripts/global.gd"
+
 [rendering]
 
 textures/canvas_textures/default_texture_filter=0

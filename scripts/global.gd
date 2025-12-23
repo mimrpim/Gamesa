@@ -1,4 +1,5 @@
-extends Control
+
+const main_menu_scene = "res://scenes/main_menu.tscn"
 
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
